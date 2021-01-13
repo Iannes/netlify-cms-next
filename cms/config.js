@@ -1,6 +1,5 @@
 export default {
     cms_manual_init: true,
-    publish_mode: editorial_workflow,
     backend: {
       name: 'git-gateway',
       repo: 'Iannes/netlify-cms-next',
